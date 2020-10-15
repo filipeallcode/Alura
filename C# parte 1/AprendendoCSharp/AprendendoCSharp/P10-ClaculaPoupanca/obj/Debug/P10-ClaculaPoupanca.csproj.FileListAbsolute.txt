@@ -1,0 +1,7 @@
+E:\Cursos\Alura\C# parte 1\AprendendoCSharp\AprendendoCSharp\P10-ClaculaPoupanca\bin\Debug\P10-ClaculaPoupanca.exe.config
+E:\Cursos\Alura\C# parte 1\AprendendoCSharp\AprendendoCSharp\P10-ClaculaPoupanca\bin\Debug\P10-ClaculaPoupanca.exe
+E:\Cursos\Alura\C# parte 1\AprendendoCSharp\AprendendoCSharp\P10-ClaculaPoupanca\bin\Debug\P10-ClaculaPoupanca.pdb
+E:\Cursos\Alura\C# parte 1\AprendendoCSharp\AprendendoCSharp\P10-ClaculaPoupanca\obj\Debug\P10-ClaculaPoupanca.csprojAssemblyReference.cache
+E:\Cursos\Alura\C# parte 1\AprendendoCSharp\AprendendoCSharp\P10-ClaculaPoupanca\obj\Debug\P10-ClaculaPoupanca.csproj.CoreCompileInputs.cache
+E:\Cursos\Alura\C# parte 1\AprendendoCSharp\AprendendoCSharp\P10-ClaculaPoupanca\obj\Debug\P10-ClaculaPoupanca.exe
+E:\Cursos\Alura\C# parte 1\AprendendoCSharp\AprendendoCSharp\P10-ClaculaPoupanca\obj\Debug\P10-ClaculaPoupanca.pdb

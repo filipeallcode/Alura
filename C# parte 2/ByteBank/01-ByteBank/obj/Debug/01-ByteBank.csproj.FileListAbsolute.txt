@@ -1,0 +1,7 @@
+E:\Cursos\Alura\C# parte 2\ByteBank\01-ByteBank\bin\Debug\01-ByteBank.exe.config
+E:\Cursos\Alura\C# parte 2\ByteBank\01-ByteBank\bin\Debug\01-ByteBank.exe
+E:\Cursos\Alura\C# parte 2\ByteBank\01-ByteBank\bin\Debug\01-ByteBank.pdb
+E:\Cursos\Alura\C# parte 2\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.csprojAssemblyReference.cache
+E:\Cursos\Alura\C# parte 2\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.csproj.CoreCompileInputs.cache
+E:\Cursos\Alura\C# parte 2\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.exe
+E:\Cursos\Alura\C# parte 2\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.pdb
